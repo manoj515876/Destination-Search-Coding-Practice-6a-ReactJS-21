@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.card {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.heading {
+  color: #000000;
+  font-family: Open Sans;
+  font-weight: 600;
+}
+
+.img {
+  height: 180px;
+  width: 280px;
+}
